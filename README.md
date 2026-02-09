@@ -46,6 +46,7 @@ Built for the Warwick AI society **Autonomous Drone AI** track (2025/26).
 ### Install Dependencies
 ```bash
 pip install opencv-python numpy djitellopy
+```
 
 ## Safety
 
