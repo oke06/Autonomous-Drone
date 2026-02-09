@@ -3,7 +3,7 @@
 Real-time face tracking using a DJI Tello drone and OpenCV.  
 The drone autonomously rotates and adjusts its distance to keep a detected face centered in view.
 
-Built for the **Autonomous Drone AI** track (2025/26).
+Built for the Warwick AI society **Autonomous Drone AI** track (2025/26).
 
 ---
 
