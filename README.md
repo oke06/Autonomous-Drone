@@ -46,3 +46,10 @@ Built for the Warwick AI society **Autonomous Drone AI** track (2025/26).
 ### Install Dependencies
 ```bash
 pip install opencv-python numpy djitellopy
+
+## Safety
+
+1. Ensure batteries are fully charged/close to fully charged to avoid the drone malfunctioning
+2. Press q to land the drone
+
+
