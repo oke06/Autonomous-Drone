@@ -13,7 +13,7 @@ me.send_rc_control(0,0,25,0)
 time.sleep(2.2)
 
 
-w, h =  400, 300 
+w, h =  400, 260 
 fbRange = [6200, 6800]
 pid = [0.4, 0.4, 0]
 pError = 0 
